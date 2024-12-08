@@ -2,11 +2,11 @@
 - python $p0t1fy package
   
 ## FUCTION
-[x] MakeNewAccount : Make $p0t1fy account
-[ ] TrialPremium : Apply 3month trial to account
-[ ] CheckAccount : Check account ex) if_premium
-[ ] ChangePassword : Change account's password
-[ ] ChangeCountry : Change account's country
+- [x] MakeNewAccount : Make $p0t1fy account
+- [ ] TrialPremium : Apply 3month trial to account
+- [ ] CheckAccount : Check account ex) if_premium
+- [ ] ChangePassword : Change account's password
+- [ ] ChangeCountry : Change account's country
 - IDK ETA
 
 ## USAGE
