@@ -13,7 +13,7 @@
 ### MakeNewAccount
 ```py
 import spotipy
-potipy.MakeNewAccount("example@gmail.com","examplePASSWOPD","exampleNAME","YYYYMMNN")
+spotipy.MakeNewAccount("example@gmail.com","examplePASSWOPD","exampleNAME","YYYYMMNN")
 # YYYYMMNN example : 19870502
 ```
 
